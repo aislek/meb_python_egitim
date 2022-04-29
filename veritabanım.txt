@@ -1,0 +1,4 @@
+Merhabalar.
+  Pyhton ile basit bir düzeyde bir veritabanı oluşturup,
+ekleme,silme ve güncelleme yaptım.Clasları çağırarak kullanabilirsiniz.
+Ama önce sql gibi bir veri tabanı kurmanız gerekecektir..
